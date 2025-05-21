@@ -7,3 +7,6 @@ This is a Streamlit app that calculates and plots shear and moment diagrams for 
 ```bash
 pip install -r requirements.txt
 streamlit run app.py
+
+Click on link to access!
+https://beam-load-calculator.streamlit.app/
